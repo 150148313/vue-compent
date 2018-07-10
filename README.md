@@ -1,2 +1,2 @@
-# vue-compent
-a small vue-compent
+# vue-components
+a small vue-component
